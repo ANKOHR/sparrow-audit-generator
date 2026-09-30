@@ -1,0 +1,4 @@
+Pytest: 40 passed
+Local tested implementation commit: 4c2887203129123fdd6fa556a72b63e73785ff78
+
+Built Sparrow Audit Generator with the sag validate, audit, questions, and fixtures commands. Safe YAML schema validation uses named errors; deterministic evidence rules compute waste only from complete supplied measurements, withhold conflicting process figures, cite every finding, and collect missing observations as follow-up questions. Markdown and JSON reports carry the mandatory honesty note and evidence appendix, with literal Markdown escaping and exact decimal calculations. The labelled seed-7 synthetic fixture, complete README, and 40 passing pytest cases cover schema validation, arithmetic traceability, conflicts, adversarial input, determinism, and end-to-end CLI operation. The build was verified locally and nothing was published.
