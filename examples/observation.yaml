@@ -1,0 +1,82 @@
+# SYNTHETIC FIXTURE - not a real business
+business:
+  name: Fictional Paperclip Co
+  fictional: true
+observed_by: Henry Williams
+observed_date: '2026-09-30'
+processes:
+- name: invoice data entry
+  description: Staff perform the described operational process.
+  steps:
+  - open source
+  - perform task
+  - request approval
+  tools_used:
+  - PDF reader
+  - ledger spreadsheet
+  pain_notes:
+  - typos cause rework
+  - approver is a bottleneck
+  measured_minutes_per_run: 30
+  runs_per_week: 4
+- name: stock reconciliation
+  description: Staff perform the described operational process.
+  steps:
+  - open source
+  - perform task
+  - request approval
+  tools_used:
+  - PDF reader
+  - ledger spreadsheet
+  pain_notes:
+  - email handoff delays completion
+  measured_minutes_per_run: 15
+  runs_per_week: 2
+- name: supplier onboarding
+  description: Staff perform the described operational process.
+  steps:
+  - open source
+  - perform task
+  - request approval
+  tools_used:
+  - PDF reader
+  - ledger spreadsheet
+  pain_notes:
+  - takes forever
+  measured_minutes_per_run: 25
+- name: customer filing
+  description: Staff perform the described operational process.
+  steps:
+  - open source
+  - perform task
+  - request approval
+  tools_used:
+  - PDF reader
+  - ledger spreadsheet
+  pain_notes: []
+- name: approval routing
+  description: Staff perform the described operational process.
+  steps:
+  - open source
+  - perform task
+  - request approval
+  tools_used:
+  - PDF reader
+  - ledger spreadsheet
+  pain_notes:
+  - waiting for approval
+  measured_minutes_per_run: 10
+  runs_per_week: 3
+- name: approval routing
+  description: Staff perform the described operational process.
+  steps:
+  - open source
+  - perform task
+  - request approval
+  tools_used:
+  - PDF reader
+  - ledger spreadsheet
+  pain_notes:
+  - waiting for approval
+  measured_minutes_per_run: 15
+  runs_per_week: 3
